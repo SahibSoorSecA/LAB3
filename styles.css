@@ -1,3 +1,9 @@
 table {width: 100%;}
+caption{text-align: center;
+        font-size: 300%;
+        padding: 2%;
+        }
+thead{background-color: rgba(255, 0, 0, 0.482);}
 
-th, td {border: 2px solid;}
+th, td {border: 2px solid;
+        padding: 0.5%;}
