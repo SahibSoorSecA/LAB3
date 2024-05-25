@@ -1,0 +1,28 @@
+header {
+    font-size: 300%;
+    font-weight: bold;
+    text-align: center;
+    margin: auto ;
+    padding: 2%;
+    background-color: rgba(255, 0, 0, 0.466);
+    border: 3px solid black;
+}
+nav {
+    padding: 2%;
+    margin-top: auto;
+    font-size: 200%;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+main {
+    font-size: medium;
+
+}
+h2 {
+    font-size: 100%;
+    font-weight: bold;
+    margin: auto ;
+    padding: 1%;
+       
+}
