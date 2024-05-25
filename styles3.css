@@ -1,2 +1,15 @@
 header {font-size: 150%;
-text-align: center;}
+    border: 5px solid black;
+text-align: center;
+background-color: rgba(255, 0, 0, 0.263);
+padding: 2%;}
+
+iframe {padding: 10px;
+    display: block;
+margin: 0 auto;}
+
+h2 {font-size: 150%;
+    border: 5px solid black;
+text-align: center;
+background-color: rgba(255, 0, 0, 0.263);
+padding: 2%;}
